@@ -615,7 +615,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12 text-center">
                             <div class="chart" data-percent="75" style="font-size:16px">
                                 <span>
-                                    <strong>MySQL</strong>
+                                    <strong>SQL</strong>
                                 </span>
                             </div>
                         </div>
@@ -636,6 +636,17 @@
                                 </h3>
                                 <div class="progress">
                                     <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="progress-wrap">
+                                <h3>
+                                    <span class="name-left">ASP.Net Web API</span>
+                                    <span class="value-right">85%</span>
+                                </h3>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
                                         aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
@@ -761,6 +772,17 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="progress-wrap">
+                                <h3>
+                                    <span class="name-left">Dapper</span>
+                                    <span class="value-right">85%</span>
+                                </h3>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="progress-wrap">
@@ -771,6 +793,17 @@
                                 <div class="progress">
                                     <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
                                         aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="progress-wrap">
+                                <h3>
+                                    <span class="name-left">Web Sockets(SignalR, Fleck)</span>
+                                    <span class="value-right">85%</span>
+                                </h3>
+                                <div class="progress">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -912,7 +945,8 @@
                             </div>
                         </div>
                     </div>
-                    <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?user=2569437&badge_count=1&category=0&include_issuer=1&include_title=1&include_recipient=1&include_description=1" width="319" height="490"></iframe>
+                    <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?user=2569437&badge_count=1&category=0&include_issuer=1&include_title=1&include_recipient=1&include_description=1"
+                        width="319" height="490"></iframe>
                 </div>
             </section>
             <section id="contact" class="clearfix bgColor2">
@@ -926,8 +960,7 @@
                                 </div>
                             </div>
                             <div id="contact-form">
-                                <form action="http://tahjid-ashfaque.000webhostapp.com/portfolio/#contact" method="post"
-                                    class="contact-form-agency clearfix">
+                                <form action="http://tahjidashfaque.com/portfolio/#contact" method="post" class="contact-form-agency clearfix mail-form">
                                     <div class="form-group">
                                         <div class="visible input-group">
                                             <input type="text" class="form-control bg-none" id="name" name="name"
@@ -957,39 +990,7 @@
                                             name="submit">
                                     </div>
                                 </form>
-                                <?php
-                                    if (isset($_POST['submit'])) {
-                                    $name = $_POST['name'];
-                                    $email = $_POST['email'];
-                                    $phone = $_POST['phone'];
-                                    $comments = $_POST['comments'];
-                                    $to = 'atahjid@gmail.com';
-                                    $subject= 'Mail From Portfolio Site';
-                                    echo "Thank You, $name I will contact you ASAP";
-                                    $message = "
-                                    <html>
-                                    <body>
-                                        <div style='padding:10px;background:#fff;'>
-                                            <p>
-                                                Name : $name,
-                                                Email Address : $email,
-                                                <br>
-                                                Phone : $phone,
-                                            </p>
-                                            <p>
-                                                $comments.
-                                            </p>
-                                        </div>
-                                    </body>
-                                </html>";
-                                $headers  = 'MIME-Version: 1.0' . "\r\n";
-                                $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-                                $headers .= 'From: '.$name.' <'.$email.'>'."\r\n";
-                                $alert = (mail($to, $subject, $message, $headers));
-                                }
-                                ?>
                             </div>
-
                         </div>
                         <div class="col-md-9">
                             <div class="col-md-11 col-md-offset-1">
@@ -1016,7 +1017,7 @@
                                                 <strong class="text-uppercase">Phone</strong>
                                                 <br />
                                                 <span class="number">
-                                                    +880-198-5169856
+                                                    +880-164-3362105
                                                     <br> +880-168-419 0636
                                                 </span>
                                             </p>
@@ -1035,7 +1036,7 @@
                                                 <br>
                                                 <a href="mailto:atahjid@yahoo.com">atahjid@yahoo.com</a>
                                                 <br>
-                                                <a href="mailto:ta.mostafa@asthait.com">ta.mostafa@asthait.com</a>
+                                                <a href="mailto:tahjidashfaque@zoho.com">tahjidashfaque@zoho.com</a>
                                             </p>
                                         </li>
                                     </ul>
@@ -1082,6 +1083,16 @@
                             <i class="fa fa-github"></i>
                         </a>
                     </li>
+                    <li>
+                        <a href="https://stackoverflow.com/users/7432133/tahjid-ashfaque" class="foo_social">
+                            <i class="fa fa-stack-overflow"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/_eshan.tahjidashfaque/" class="foo_social">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -1098,6 +1109,22 @@
     <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
     <script type="text/javascript" src="js/google_map.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
+    <script>
+        $(function () {
+            var form = $('form.mail-form');
+            form.on('submit', function (e) {
+                e.preventDefault();
+                $.ajax({
+                    type: 'post',
+                    url: 'mailer.php',
+                    data: form.serialize(),
+                    success: function () {
+                        alert('Thank you for contacting me, I will get back to you as soon as possible.');
+                    }
+                });
+            })
+        })
+    </script>
 </body>
 
 </html>
