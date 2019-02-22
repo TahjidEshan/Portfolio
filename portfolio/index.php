@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114433794-1"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-114433794-1');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-114433794-1');
     </script>
 
     <!--[if IE 9]>         <html class="ie9"> <![endif]-->
@@ -62,8 +61,10 @@
         </div>
         <div class="ip-loader">
             <svg class="ip-inner" width="60px" height="60px" viewBox="0 0 80 80">
-                <path class="ip-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z" />
-                <path id="ip-loader-circle" class="ip-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z" />
+                <path class="ip-loader-circlebg" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"
+                />
+                <path id="ip-loader-circle" class="ip-loader-circle" d="M40,10C57.351,10,71,23.649,71,40.5S57.351,71,40.5,71 S10,57.351,10,40.5S23.649,10,40.5,10z"
+                />
             </svg>
         </div>
     </div>
@@ -138,16 +139,6 @@
                             <i class="icon-github2"></i>
                         </a>
                     </li>
-                    <li>
-                        <a href="https://stackoverflow.com/users/7432133/tahjid-ashfaque">
-                            <i class="icon-stackoverflow"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.instagram.com/_eshan.tahjidashfaque/">
-                            <i class="icon-instagram"></i>
-                        </a>
-                    </li>
                 </ul>
             </nav>
         </aside>
@@ -209,26 +200,22 @@
                                             </li>
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
-                                                    <div data-width="90" class="progress-bar text-uppercase" data-name="Movies/Serials/Anime">
-                                                    </div>
+                                                    <div data-width="90" class="progress-bar text-uppercase" data-name="Movies/Serials/Anime"> </div>
                                                 </div>
                                             </li>
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
-                                                    <div data-width="85" class="progress-bar text-uppercase" data-name="Table Tennis">
-                                                    </div>
+                                                    <div data-width="85" class="progress-bar text-uppercase" data-name="Table Tennis"> </div>
                                                 </div>
                                             </li>
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
-                                                    <div data-width="80" class="progress-bar text-uppercase" data-name="Travelling">
-                                                    </div>
+                                                    <div data-width="80" class="progress-bar text-uppercase" data-name="Travelling"> </div>
                                                 </div>
                                             </li>
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
-                                                    <div data-width="75" class="progress-bar text-uppercase" data-name="Music">
-                                                    </div>
+                                                    <div data-width="75" class="progress-bar text-uppercase" data-name="Music"> </div>
                                                 </div>
                                             </li>
                                         </ul>
@@ -264,8 +251,7 @@
                                         <div class="timeline-heading">
                                             <h3 class="timeline-title">Jr. Software Engineer</h3>
                                             <span class="company">
-                                                <a href="http://www.asthait.com/">Astha IT Research &amp; Consultancy
-                                                    Ltd.</a>
+                                                <a href="http://www.asthait.com/">Astha IT Research &amp; Consultancy Ltd.</a>
                                             </span>
                                         </div>
                                         <div class="timeline-body">
@@ -335,14 +321,10 @@
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
                                             <h3 class="timeline-title">BSc in Computer Science and Engineering(CSE)</h3>
-                                            <span class="company"><a href="http://www.bracu.ac.bd/">BRAC University</a>
-                                                - 2013 - 2016</span>
+                                            <span class="company"><a href="http://www.bracu.ac.bd/">BRAC University</a> - 2013 - 2016</span>
                                         </div>
                                         <div class="timeline-body">
                                             <p>Graduated With High Distinction</p>
-                                            <p>Reciepient of Merit Based Scholarship</p>
-                                            <p>Placed on Deans List</p>
-                                            <p>Placed on Vice Chancellors List</p>
                                         </div>
                                     </div>
                                 </li>
@@ -353,8 +335,7 @@
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
                                             <h3 class="timeline-title">Higher Secondary Certificate(HSC)</h3>
-                                            <span class="company"><a href="http://www.notredamecollege-dhaka.com/">Notre
-                                                    Dame College</a> - 2012 - 2016</span>
+                                            <span class="company"><a href="http://www.notredamecollege-dhaka.com/">Notre Dame College</a> - 2012 - 2016</span>
                                         </div>
                                         <div class="timeline-body">
                                             <p></p>
@@ -368,11 +349,10 @@
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
                                             <h3 class="timeline-title">Secondary School Certificate(SSC)</h3>
-                                            <span class="company"><a href="http://www.scpsc.edu.bd/">Savar Cantonment
-                                                    Public School and College</a> - - 2010</span>
+                                            <span class="company"><a href="http://www.scpsc.edu.bd/">Savar Cantonment Public School and College</a> - - 2010</span>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Recipient of Government Scholarship on 2004, 2008 and 2010</p>
+                                            <p></p>
                                         </div>
                                     </div>
                                 </li>
@@ -392,32 +372,17 @@
                                             <h3 class="timeline-title">
                                                 Abnormal event detection in crowded scenarios <br>
                                                 <small style="font-size:13px">
-                                                    Tahjid Ashfaque Mostafa, Jia Uddin, Md. Haider Ali
+                                                Tahjid Ashfaque Mostafa, Jia Uddin, Md. Haider Ali
                                                 </small>
                                             </h3>
-                                            <span class="company"><a href="http://ieeexplore.ieee.org/document/8275217/">View
-                                                    in IEEE XPlore</a></span>
+                                            <span class="company"><a href="http://ieeexplore.ieee.org/document/8275217/">View in IEEE XPlore</a></span>
                                         </div>
                                         <div class="timeline-body">
-                                            <p style="font-size:12px;line-height:1.2;text-align:justify">This paper
-                                                proposes an autonomous video surveillance system which analyzes
-                                                footages of extremely crowded scenes and detects abnormal events in the
-                                                context of that particular scene. The model analyzes the local
-                                                spatial-temporal motion pattern and detects abnormal motion variations
-                                                and sudden changes and it can be divided into two major parts,
-                                                selecting a set of Points of Interest (POI) from given frames and
-                                                tracking them across multiple frames and dividing the input video frame
-                                                in a number of cubes and track the motion patterns in each of the cubes
-                                                for spatial-temporal statistical deviations. To evaluate the
-                                                performance of proposed model we utilize several datasets and compare
-                                                the acquired results of the proposed model with various state-of-the
-                                                art models. Experimental results demonstrate that the proposed model
-                                                outperforms the other models by exhibiting an average of 96.12%
-                                                accuracy using Convolutional Neural Network.</p>
+                                            <p style="font-size:12px;line-height:1.2;text-align:justify">This paper proposes an autonomous video surveillance system which analyzes footages of extremely crowded scenes and detects abnormal events in the context of that particular scene. The model analyzes the local spatial-temporal motion pattern and detects abnormal motion variations and sudden changes and it can be divided into two major parts, selecting a set of Points of Interest (POI) from given frames and tracking them across multiple frames and dividing the input video frame in a number of cubes and track the motion patterns in each of the cubes for spatial-temporal statistical deviations. To evaluate the performance of proposed model we utilize several datasets and compare the acquired results of the proposed model with various state-of-the art models. Experimental results demonstrate that the proposed model outperforms the other models by exhibiting an average of 96.12% accuracy using Convolutional Neural Network.</p>
                                         </div>
                                     </div>
                                 </li>
-
+                                
                             </ul>
                         </div>
                     </div>
@@ -447,8 +412,7 @@
                                 <ul class="boxListing service-box">
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="0.5s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="0.5s" data-wow-duration=".7s">
                                                 <div class="icon ion-monitor"></div>
                                                 <h5>Web Development</h5>
                                             </div>
@@ -463,8 +427,7 @@
                                     </li>
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="0.8s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="0.8s" data-wow-duration=".7s">
                                                 <div class="icon ion-easel"></div>
                                                 <h5>Responsive UX/UI Development</h5>
                                             </div>
@@ -479,8 +442,7 @@
                                     </li>
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="1s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="1s" data-wow-duration=".7s">
                                                 <div class="icon ion-images"></div>
                                                 <h5>Computer Vision/Image Processing</h5>
                                             </div>
@@ -495,8 +457,7 @@
                                     </li>
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="1.2s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="1.2s" data-wow-duration=".7s">
                                                 <div class="icon ion-android-bulb"></div>
                                                 <h5>Machine Learning</h5>
                                             </div>
@@ -511,8 +472,7 @@
                                     </li>
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="1.5s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="1.5s" data-wow-duration=".7s">
                                                 <div class="icon ion-compose"></div>
                                                 <h5>Software Development</h5>
                                             </div>
@@ -527,8 +487,7 @@
                                     </li>
                                     <li class="col-sm-4 col-xs-12 boxItem">
                                         <div class="service-box-style">
-                                            <div class="content-service wow fadeIn" data-wow-delay="1.5s"
-                                                data-wow-duration=".7s">
+                                            <div class="content-service wow fadeIn" data-wow-delay="1.5s" data-wow-duration=".7s">
                                                 <div class="icon ion-social-buffer-outline"></div>
                                                 <h5>Database Management</h5>
                                             </div>
@@ -635,8 +594,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -646,8 +605,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -657,8 +616,8 @@
                                     <span class="value-right">80%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:80%">
                                     </div>
                                 </div>
                             </div>
@@ -668,8 +627,8 @@
                                     <span class="value-right">80%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:80%">
                                     </div>
                                 </div>
                             </div>
@@ -679,8 +638,8 @@
                                     <span class="value-right">80%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:80%">
                                     </div>
                                 </div>
                             </div>
@@ -690,8 +649,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -701,8 +660,8 @@
                                     <span class="value-right">80%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:80%">
                                     </div>
                                 </div>
                             </div>
@@ -712,8 +671,8 @@
                                     <span class="value-right">80%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:80%">
                                     </div>
                                 </div>
                             </div>
@@ -723,8 +682,8 @@
                                     <span class="value-right">70%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar" aria-valuenow="70" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:70%">
                                     </div>
                                 </div>
                             </div>
@@ -734,8 +693,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -745,8 +704,8 @@
                                     <span class="value-right">65%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width:65%">
+                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar" aria-valuenow="65" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:65%">
                                     </div>
                                 </div>
                             </div>
@@ -756,8 +715,8 @@
                                     <span class="value-right">65%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width:65%">
+                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow="65" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:65%">
                                     </div>
                                 </div>
                             </div>
@@ -769,8 +728,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -780,8 +739,8 @@
                                     <span class="value-right">90%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                    <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                                        style="width:90%">
                                     </div>
                                 </div>
                             </div>
@@ -791,8 +750,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -802,8 +761,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -813,8 +772,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -824,8 +783,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -835,8 +794,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -847,8 +806,8 @@
                                     <span class="value-right">65%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width:65%">
+                                    <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar" aria-valuenow="65" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:65%">
                                     </div>
                                 </div>
                             </div>
@@ -858,8 +817,8 @@
                                     <span class="value-right">95%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                    <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="95" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:95%">
                                     </div>
                                 </div>
                             </div>
@@ -869,8 +828,8 @@
                                     <span class="value-right">95%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                    <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow="95" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:95%">
                                     </div>
                                 </div>
                             </div>
@@ -880,8 +839,8 @@
                                     <span class="value-right">85%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+                                    <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:85%">
                                     </div>
                                 </div>
                             </div>
@@ -891,8 +850,8 @@
                                     <span class="value-right">75%</span>
                                 </h3>
                                 <div class="progress">
-                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-                                        aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                                    <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                        aria-valuemax="100" style="width:75%">
                                     </div>
                                 </div>
                             </div>
@@ -900,21 +859,6 @@
                     </div>
                 </div>
             </div>
-            <section id="badges" class="clearfix bgColor2">
-                <div class="container">
-                    <div class="row row-padding">
-                        <div class="col-md-3">
-                            <div class="heading">
-                                <div class="title-style-3">
-                                    <h2 class="text-uppercase">Badges</h2>
-                                    <span class="title-spt"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?user=2569437&badge_count=1&category=0&include_issuer=1&include_title=1&include_recipient=1&include_description=1" width="319" height="490"></iframe>
-                </div>
-            </section>
             <section id="contact" class="clearfix bgColor2">
                 <div class="container">
                     <div class="row row-padding">
@@ -926,35 +870,29 @@
                                 </div>
                             </div>
                             <div id="contact-form">
-                                <form action="http://tahjid-ashfaque.000webhostapp.com/portfolio/#contact" method="post"
-                                    class="contact-form-agency clearfix">
+                                <form action="http://tahjid-ashfaque.000webhostapp.com/portfolio/#contact" method="post" class="contact-form-agency clearfix">
                                     <div class="form-group">
                                         <div class="visible input-group">
-                                            <input type="text" class="form-control bg-none" id="name" name="name"
-                                                placeholder="Name" required>
+                                            <input type="text" class="form-control bg-none" id="name" name="name" placeholder="Name" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <div class="visible input-group">
-                                            <input type="email" class="form-control bg-none" id="email" name="email"
-                                                placeholder="Email" required>
+                                            <input type="email" class="form-control bg-none" id="email" name="email" placeholder="Email" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <div class="visible input-group">
-                                            <input type="text" class="form-control bg-none" id="phone" name="phone"
-                                                placeholder="Phone" required>
+                                            <input type="text" class="form-control bg-none" id="phone" name="phone" placeholder="Phone" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <div class="visible input-group">
-                                            <textarea class="form-control bg-none" rows="3" id="comments" name="comments"
-                                                placeholder="Message" required></textarea>
+                                            <textarea class="form-control bg-none" rows="3" id="comments" name="comments" placeholder="Message" required></textarea>
                                         </div>
                                     </div>
                                     <div class="form-group text-right">
-                                        <input type="submit" class="submit btn btn-dark" value="Submit" id="submit"
-                                            name="submit">
+                                        <input type="submit" class="submit btn btn-dark" value="Submit" id="submit" name="submit">
                                     </div>
                                 </form>
                                 <?php
@@ -992,56 +930,56 @@
 
                         </div>
                         <div class="col-md-9">
-                            <div class="col-md-11 col-md-offset-1">
-                                <div class="map-block clearfix">
-                                    <div id="googleMap" class="clearfix"></div>
-                                </div>
-                                <div class="agency-contact">
-                                    <ul class="infoContact">
-                                        <li class="col-sm-4">
-                                            <span>
-                                                <i class="icon ion-home"></i>
+                        <div class="col-md-11 col-md-offset-1">
+                            <div class="map-block clearfix">
+                                <div id="googleMap" class="clearfix"></div>
+                            </div>
+                            <div class="agency-contact">
+                                <ul class="infoContact">
+                                    <li class="col-sm-4">
+                                        <span>
+                                            <i class="icon ion-home"></i>
+                                        </span>
+                                        <p>
+                                            <strong class="text-uppercase">Address</strong>
+                                            <br /> 180/2,Tejgao Industrial Area
+                                            <br /> Dhaka, Bangladesh
+                                        </p>
+                                    </li>
+                                    <li class="col-sm-4">
+                                        <span>
+                                            <i class="icon ion-iphone"></i>
+                                        </span>
+                                        <p>
+                                            <strong class="text-uppercase">Phone</strong>
+                                            <br />
+                                            <span class="number">
+                                                +880-198-5169856
+                                                <br> +880-168-419 0636
                                             </span>
-                                            <p>
-                                                <strong class="text-uppercase">Address</strong>
-                                                <br /> 180/2,Tejgao Industrial Area
-                                                <br /> Dhaka, Bangladesh
-                                            </p>
-                                        </li>
-                                        <li class="col-sm-4">
-                                            <span>
-                                                <i class="icon ion-iphone"></i>
-                                            </span>
-                                            <p>
-                                                <strong class="text-uppercase">Phone</strong>
-                                                <br />
-                                                <span class="number">
-                                                    +880-198-5169856
-                                                    <br> +880-168-419 0636
-                                                </span>
-                                            </p>
+                                        </p>
 
-                                        </li>
-                                        <li class="col-sm-4">
-                                            <span>
-                                                <i class="icon ion-ios-email-outline"></i>
-                                            </span>
-                                            <p>
-                                                <strong class="text-uppercase">Email</strong>
-                                                <br />
-                                                <a href="mailto:atahjid@gmail.com">atahjid@gmail.com</a>
-                                                <br>
-                                                <a href="mailto:atahjid@live.com">atahjid@live.com</a>
-                                                <br>
-                                                <a href="mailto:atahjid@yahoo.com">atahjid@yahoo.com</a>
-                                                <br>
-                                                <a href="mailto:ta.mostafa@asthait.com">ta.mostafa@asthait.com</a>
-                                            </p>
-                                        </li>
-                                    </ul>
-                                </div>
+                                    </li>
+                                    <li class="col-sm-4">
+                                        <span>
+                                            <i class="icon ion-ios-email-outline"></i>
+                                        </span>
+                                        <p>
+                                            <strong class="text-uppercase">Email</strong>
+                                            <br />
+                                            <a href="mailto:atahjid@gmail.com">atahjid@gmail.com</a>
+                                            <br>
+                                            <a href="mailto:atahjid@live.com">atahjid@live.com</a>
+                                            <br>
+                                            <a href="mailto:atahjid@yahoo.com">atahjid@yahoo.com</a>
+                                            <br>
+                                            <a href="mailto:ta.mostafa@asthait.com">ta.mostafa@asthait.com</a>
+                                        </p>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
+                    </div>
                     </div>
                 </div>
         </div>
