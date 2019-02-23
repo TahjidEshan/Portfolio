@@ -1,0 +1,16 @@
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.csprojAssemblyReference.cache
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.csproj.CoreCompileInputs.cache
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.RazorAssemblyInfo.cache
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.RazorAssemblyInfo.cs
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.AssemblyInfoInputs.cache
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.AssemblyInfo.cs
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.deps.json
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.runtimeconfig.json
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.runtimeconfig.dev.json
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.dll
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.pdb
+/var/www/html/Portfolio/PortfolioAPI/bin/Debug/netcoreapp2.2/portfolio.xml
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.RazorTargetAssemblyInfo.cache
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.dll
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.xml
+/var/www/html/Portfolio/PortfolioAPI/obj/Debug/netcoreapp2.2/portfolio.pdb
